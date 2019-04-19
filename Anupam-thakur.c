@@ -1,6 +1,5 @@
 
 #include<stdio.h>
-#include<sys/wait.h>
 #include<stdlib.h>
 //Process State Definations::
 #define NEW 0                  
